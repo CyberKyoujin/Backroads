@@ -31,7 +31,7 @@ export const tours = [
      info: 'Lorem ipsum dolor sit amet, consectetur adipisicing elit. Cumque vitae tempore voluptatum maxime reprehenderit eum quod exercitationem fugit, qui corporis.',
      location: 'china',
      duration: 6,
-     location: 2100
+     price: 2100
     },
     {id: 2, 
         image: tour2, 
@@ -40,7 +40,7 @@ export const tours = [
         info: 'Lorem ipsum dolor sit amet, consectetur adipisicing elit. Cumque vitae tempore voluptatum maxime reprehenderit eum quod exercitationem fugit, qui corporis.',
         location: 'china',
         duration: 6,
-        location: 2100
+        price: 2100
     },
     {id: 3, 
         image: tour3, 
@@ -49,7 +49,7 @@ export const tours = [
         info: 'Lorem ipsum dolor sit amet, consectetur adipisicing elit. Cumque vitae tempore voluptatum maxime reprehenderit eum quod exercitationem fugit, qui corporis.',
         location: 'china',
         duration: 6,
-        location: 2100
+        price: 2100
     },
     {id: 4, 
         image: tour4, 
@@ -58,6 +58,6 @@ export const tours = [
         info: 'Lorem ipsum dolor sit amet, consectetur adipisicing elit. Cumque vitae tempore voluptatum maxime reprehenderit eum quod exercitationem fugit, qui corporis.',
         location: 'china',
         duration: 6,
-        location: 2100
+        price: 2100
     },
 ];
